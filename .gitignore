@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+bullet-2.78/.DS_Store
+/bullet-2.78/Demos
+/bullet-2.78/Extras
+/bullet-2.78/UnitTests
+/bullet-2.78/msvc
